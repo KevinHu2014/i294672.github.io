@@ -2,6 +2,7 @@
   <script>
     $(document).ready(function() {
       $("body").addClass("animated fadeOut")
+      $("#h1").css("color", "red");
     });   
   </script>
   <head>
