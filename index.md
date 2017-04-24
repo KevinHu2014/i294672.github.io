@@ -4,9 +4,8 @@
       $("#h1").css("color", "red");
     });   
   </script>
-  <embed src="http://pcnet.idv.tw/midi/First Lov.mid";autostart="true";hidden="true";loop="true">
 <html>
-  <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg">
+  <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg";width="400px";height="60px";>
   <marquee behavior="alternate">Hello!</marquee>
     <h1>姓名:</h1>
     <dl>王琮宜</dl>
