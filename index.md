@@ -5,7 +5,7 @@
     });   
   </script>
 <html>
-  <body background="http://www.nhyz.org/lx/wljs/chap4/bg/7.gif"><font color="white">
+  <body background="http://pic.qiantucdn.com/58pic/11/11/49/99m58PICYhp.jpg">
   <marquee>Hello!</marquee>
     <h1>姓名:</h1>
     <dl>王琮宜</dl>
@@ -18,6 +18,6 @@
     <ul>
       <li>目前就讀於輔仁大學資工系</li>
       <li>生日:85/09/05</li>
-     </ul></font>
+     </ul>
   </body>
 </html>
