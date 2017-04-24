@@ -5,7 +5,7 @@
     });   
   </script>
 <html>
-  <body background="http://pic.qiantucdn.com/58pic/11/11/49/99m58PICYhp.jpg">
+  <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg">
   <marquee>Hello!</marquee>
     <h1>姓名:</h1>
     <dl>王琮宜</dl>
