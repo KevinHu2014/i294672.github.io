@@ -6,7 +6,7 @@
   </script>
 <html>
   <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg">
-  <marquee>Hello!</marquee>
+  <marquee behavior=alternate>Hello!</marquee>
     <h1>姓名:</h1>
     <dl>王琮宜</dl>
     <h2>興趣</h2>
