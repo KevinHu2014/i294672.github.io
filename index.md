@@ -1,5 +1,9 @@
 <html>
-  <script>$("body").addClass("animated fadeOut")</script>
+  <script>
+    $(document).ready(function() {
+      $("body").addClass("animated fadeOut")
+    });   
+  </script>
   <head>
     <title>自我介紹</title>
   </head>
