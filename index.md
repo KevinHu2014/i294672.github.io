@@ -3,9 +3,9 @@
       $("body").addClass("animated fadeOut")
       $("#h1").css("color", "red");
     });   
-  </script>
+  </script><embed src="http://pcnet.idv.tw/midi/First Lov.mid" autostart=true hidden=true loop=true>
 <html>
-  <embed src="http://pcnet.idv.tw/midi/First Lov.mid" autostart=true hidden=true loop=true>
+  
   <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg";background-repeat:no-repeat;width:400px;height:60px;>
   <marquee behavior=alternate>Hello!</marquee>
     <h1>姓名:</h1>
