@@ -1,3 +1,4 @@
+<script>$("body").addClass("animated fadeOut");</script>
 <h1>姓名:</h1>
 <dl>王琮宜</dl>
 <h2>興趣</h2>
