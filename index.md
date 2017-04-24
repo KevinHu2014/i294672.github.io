@@ -1,10 +1,11 @@
-<html>
+
   <script>
     $(document).ready(function() {
       $("body").addClass("animated fadeOut")
       $("#h1").css("color", "red");
     });   
   </script>
+<html>
   <head>
     <title>自我介紹</title>
   </head>
