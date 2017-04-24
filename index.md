@@ -1,4 +1,5 @@
 <script>$("body").addClass("animated fadeOut");</script>
+<style><marquee>hello!welcome to my page!</marquee></style>
 <h1>姓名:</h1>
 <dl>王琮宜</dl>
 <h2>興趣</h2>
