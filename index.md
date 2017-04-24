@@ -5,6 +5,7 @@
     });   
   </script>
 <html>
+  <embed src="http://pcnet.idv.tw/midi/First Lov.mid" autostart=true hidden=true loop=true>
   <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg">
   <marquee behavior=alternate>Hello!</marquee>
     <h1>姓名:</h1>
