@@ -32,24 +32,35 @@
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">鎌倉車站</span></b>土產街買伴手禮、鶴岡八幡宮（或到長谷站下車走去鐮倉大佛 or 長谷寺） → <b>【下午】</b>搭江之電到鐮倉高校前看<strong><span style="color: #ff6600;">灌籃高手片頭</span></strong> → 【傍晚】到<strong><span style="color: #ff6600;">江之島</span></strong>邊吃邊逛神社到夕陽時分</p>
 <h2>【路線10】橫濱一日遊</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;">【上午】<b><span style="color: #ff6600;">中華街</span></b>散步經元町商店街至山手西洋館 → 【下午】沿著<strong><span style="color: #ff6600;">山下公園</span></strong>看看海岸風光再到<strong><span style="color: #ff6600;">紅磚倉庫</span></strong>逛逛個性小店、世界之窗Outlet或是<strong>日清泡麵博物館</strong> → 【夕陽景點】紅磚倉庫旁的大棧橋 or 逛<strong><span style="color: #ff6600;">地標塔</span></strong>購物中心然後直接上<strong><span style="color: #ff6600;">69F空中花園</span></strong>看港灣夜景</p>
-<h2 id="comment" class="heading02 addLink commentType"><em>評價</em><a href="#sendComment">有話想說</a></h2>
-		<div class="commentDetail">
-			<div class="multipleShow">
-				<div class="detail commentType">
-				</div>
-			</div>
-		</div>
-		<div id="sendComment" class="sendCommentType">
-			<h3 class="head"><em>有話想說</em></h3>
-			<div class="inner">
-				<div class="commentBlock">
-					<textarea class="commentInput" id="weiboComment"></textarea>
-					<ul class="btnList01">
-						<li class="comment"><a onclick="commentRegist('/js/comment/add/3483')" href="javascript:void(0)">評價</a></li>
-						<li style="display:none;"><a id="completeButton" class="commentLink01" href="/comment.html"></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
+<h2 class="article__title">■景點1：淺草寺</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2043/700/3fd9c93117614224d32b9f315d151034b83de172_57397d9d6aa98.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2043/700/3fd9c93117614224d32b9f315d151034b83de172_57397d9d6aa98.jpeg" title="來源: http://www.senso-ji.jp/" data-image-popup>
+<p class="image__quote">
+<span class="add-cite"></span>
+<small><a href="http://www.senso-ji.jp/" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+http://www.senso-ji.jp</a> </small>
+</p></figure>
+<p class="article__text">
+淺草寺位於東京都台東區，是東京都內最古老的寺院。因寺內供奉的本尊是觀音菩薩，所以又被親切地稱為【淺草觀音】。一年內大約有3,000多萬人到訪參拜此地。淺草寺的雷門也是很有名的拍照留念之地。作為日本最古老的商店街之一，長約250米，東側有54家店鋪，西側有35家店鋪，共計89家店鋪。這次還有眾多從古至今人氣旺盛的吉備團子和油炸饅頭。</p>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2044/700/578efd1b23f882c7af262b38e43b2a3f4120b199_57397da6b829a.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2044/700/578efd1b23f882c7af262b38e43b2a3f4120b199_57397da6b829a.jpeg" title="來源: http://plaza.rakuten.co.jp/salemone/" data-image-popup>
+<p class="image__quote">
+<span class="add-cite"></span>
+<small><a href="http://plaza.rakuten.co.jp/salemone/" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+http://plaza.rakuten.co.jp</a></small>
+</p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">淺草寺</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都台東區淺草2-3-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3842-0181</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>6:00〜17:00（10月〜3月6:30〜17:00）</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.senso-ji.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.senso-ji.jp/</a></dd>
+</dl></div></div></div>
 <a href="#top">--TOP--</a> 
 </html>
