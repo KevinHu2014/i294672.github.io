@@ -12,7 +12,7 @@
   <ul>
     東京是一座位於日本本州島東部的都市，也是現今事實上的的日本首都，以東京都區部為中心（即一般所認知的東京市區），目前光此23區部之人口數達922萬；若包含多摩地區及鄰近擴張相連之城區的東京首都圈，人口總數則達3千5百萬，是目前全球規模最大的都會區，亦為亞洲重要的世界級城市。東京是傳統上的全球四大世界級城市之一，在2014年全球城市指數排名中排名第四名（亞洲第一名），也是全球第三大金融中心，僅次於紐約及倫敦。
   </ul>
-  <a name="top" id="top"></a> 
+
 <h2>【路線1】淺草、上野、阿美橫町、晴空塔</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">淺草寺</span></b>參拜、逛仲見世通買伴手禮 → <b>【下午】<span style="color: #ff6600;">上野</span>恩賜公園</b>散步、<strong><span style="color: #ff6600;">阿美橫丁</span>藥妝店</strong>大採購 → 【晚上】漫步<strong>隅田川沿河岸公園</strong>拍金色大便與晴空塔、<span style="color: #ff6600;">晴空塔</span>看夜景</p>
 <h2>【路線2】皇居、東京車站、秋葉原</h2>
@@ -25,5 +25,5 @@
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">明治神宮</span></b>吸收芬多精  → 【中午】年輕人必逛的<span style="color: #ff6600;">原宿<strong>竹下通</strong></span> + <strong><span style="color: #ff6600;">貓街</span></strong>看個性小店與咖啡廳 → 【晚上】 集時尚與藝術為一體的<strong><span style="color: #ff6600;">表參道</span></strong>、聚集許多高級品牌與美術館的<strong><span style="color: #ff6600;">青山</span></strong></p>
 <h2>【路線6】三鷹、井之頭公園、吉祥寺</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">三鷹吉卜力美術館</span></b>一窺宮崎駿創作過程 → <b>【下午】</b><strong><span style="color: #ff6600;">井之頭公園</span></strong>散步 → 【傍晚】<span style="color: #ff6600;"><strong>吉祥寺</strong></span>平價藥妝購物</p>
-<a href="#top">--TOP--</a> 
+  <a name="top" id="top"></a> <a href="#top">--TOP--</a> 
 </html>
