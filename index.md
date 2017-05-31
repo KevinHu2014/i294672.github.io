@@ -89,10 +89,7 @@ http://www.imart.co.jp </a></small>
 <h2 class="article__title">■景點3：東京都廳展望台</h2>
 <figure class="article__image">
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" data-image-popup>
-<p class="image__quote"><span class="add-cite"></span>
-<small><a href="http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
-http://ja.wikipedia.org</a></small>
-</p></figure>
+</figure>
 <p class="article__text">作為東京的地標之一，東京都廳高243米，是一幢48樓的超高層建築。在這裡，你可以免費欣賞東京的全景和夜景，已成為學生畢業旅游的必到之地。南面的展望台到下午5點，北面的展望台到晚上11點結束。從離地202米的高處可以俯瞰新宿公園塔以及東京歌劇院，更可以360度全方位欣賞到東京的夜景。</p>
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" title="來源: http://yakei-fan.com/yakei/tokyo/tochon.html" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span>
