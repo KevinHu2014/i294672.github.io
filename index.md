@@ -1,4 +1,4 @@
-<html>   <a name="top" id="top"></a> <body　bgcolor="#FFFFCC">
+<html>   <a name="top" id="top"></a> 
   <head>
     <center>
       <font size="7">
