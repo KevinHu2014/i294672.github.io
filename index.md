@@ -5,14 +5,16 @@
     });   
   </script>
 <html>
-<style>body{
+<style>
+      body{
             background-image: url(http://itinerary.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00012439.JPG);
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-position: center;
             background-size: cover;
-        }
+      }
   </style>
+  <head>東京自由行</head>
   <hr size="7" align="center" noshade width="100%" color="black">
   <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
   
