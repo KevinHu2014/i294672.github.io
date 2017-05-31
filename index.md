@@ -7,7 +7,6 @@
     </center>
   </head>
   <hr size="5" align="center" noshade width="100%" color="ffffff">
-  <frameset cols=3,7>
   <font size="5"><marquee behavior="alternate">Welcome to TOKYO!!</marquee></font>
   <img align="center" src="http://www.tokyotoushi.com/sites/default/themes/tokyotoushi/img/zh-hant/map/map-tyo-all.jpg" >
   <ul>
