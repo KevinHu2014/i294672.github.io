@@ -32,5 +32,24 @@
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">鎌倉車站</span></b>土產街買伴手禮、鶴岡八幡宮（或到長谷站下車走去鐮倉大佛 or 長谷寺） → <b>【下午】</b>搭江之電到鐮倉高校前看<strong><span style="color: #ff6600;">灌籃高手片頭</span></strong> → 【傍晚】到<strong><span style="color: #ff6600;">江之島</span></strong>邊吃邊逛神社到夕陽時分</p>
 <h2>【路線10】橫濱一日遊</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;">【上午】<b><span style="color: #ff6600;">中華街</span></b>散步經元町商店街至山手西洋館 → 【下午】沿著<strong><span style="color: #ff6600;">山下公園</span></strong>看看海岸風光再到<strong><span style="color: #ff6600;">紅磚倉庫</span></strong>逛逛個性小店、世界之窗Outlet或是<strong>日清泡麵博物館</strong> → 【夕陽景點】紅磚倉庫旁的大棧橋 or 逛<strong><span style="color: #ff6600;">地標塔</span></strong>購物中心然後直接上<strong><span style="color: #ff6600;">69F空中花園</span></strong>看港灣夜景</p>
+<h2 id="comment" class="heading02 addLink commentType"><em>評價</em><a href="#sendComment">有話想說</a></h2>
+		<div class="commentDetail">
+			<div class="multipleShow">
+				<div class="detail commentType">
+				</div>
+			</div>
+		</div>
+		<div id="sendComment" class="sendCommentType">
+			<h3 class="head"><em>有話想說</em></h3>
+			<div class="inner">
+				<div class="commentBlock">
+					<textarea class="commentInput" id="weiboComment"></textarea>
+					<ul class="btnList01">
+						<li class="comment"><a onclick="commentRegist('/js/comment/add/3483')" href="javascript:void(0)">評價</a></li>
+						<li style="display:none;"><a id="completeButton" class="commentLink01" href="/comment.html"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 <a href="#top">--TOP--</a> 
 </html>
