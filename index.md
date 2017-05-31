@@ -5,19 +5,7 @@
     });   
   </script>
 <html>
-  <body background="http://riddle-house.com/upload/PD/PPRODUCT_C05-093.jpg">
-  <marquee behavior="alternate">Hello!</marquee>
-    <h1>姓名:</h1>
-    <dl>王琮宜</dl>
-    <h2>興趣</h2>
-    <ol>
-      <li>睡覺</li>
-      <li>看小說</li>
-      <li>玩遊戲</li>
-    </ol>
-    <ul>
-      <li>目前就讀於輔仁大學資工系</li>
-      <li>生日:85/09/05</li>
-     </ul>
-  </body>
+  <body background="http://itinerary.colatour.com.tw/COLA_AppFiles/A03A_Tour/PictureObj/00012439.JPG">
+  <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
+   
 </html>
