@@ -62,14 +62,11 @@
 <figure class="article__image">
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2045/700/4e24b723f2c718ce7bf408ea1b87960684b85976_57397db0898c3.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2045/700/4e24b723f2c718ce7bf408ea1b87960684b85976_57397db0898c3.jpeg" title="來源: http://www.imart.co.jp/livecamera-page.html" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span>
-<small><a href="http://www.imart.co.jp/livecamera-page.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
-http://www.imart.co.jp </a></small>
 </p></figure>
 <p class="article__text">作為電波塔，高333米的東京塔雖然已經成功地將其任務移交給東京晴空塔，但是作為後備之力東京塔今仍扮演著重要的角色。站在150米高度的展望台可以將關東的景色一覽無余。大展望台特設舞台舉辦演唱會，現邀DJ舉行CLUB333活動等，還有能吃到東京塔冰淇淋的咖啡店。在晴天登上250米高度的特別展望台，可以遠遠眺望富士山和築波山。<br />門票：大展望台--大人900日元，孩子500日元，幼兒400日元；特別展望台--大人700日元，孩子500日元，幼兒400日元；大展望台＋特別展望台--大人1600日元，孩子1000日元，幼兒800日元。</p>
 <figure class="article__image">
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2046/700/3456bf92b630d831170f06d319431b4b9d5b49a4_57397db84c682.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2046/700/3456bf92b630d831170f06d319431b4b9d5b49a4_57397db84c682.jpeg" title="來源: http://www.yakei-navi.com/yakei/tokyo_23/minato_ttowertenbou/" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span>
- <small><a href="http://www.yakei-navi.com/yakei/tokyo_23/minato_ttowertenbou/" rel="nofollow" target="_blank" data-event-send='["outbound"]'> http://www.yakei-navi.com</a> </small>
 </p></figure>
 <div class="info info-spot">
 <div class="info__content">
@@ -91,10 +88,7 @@ http://www.imart.co.jp </a></small>
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" data-image-popup>
 </figure>
 <p class="article__text">作為東京的地標之一，東京都廳高243米，是一幢48樓的超高層建築。在這裡，你可以免費欣賞東京的全景和夜景，已成為學生畢業旅游的必到之地。南面的展望台到下午5點，北面的展望台到晚上11點結束。從離地202米的高處可以俯瞰新宿公園塔以及東京歌劇院，更可以360度全方位欣賞到東京的夜景。</p>
-<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" title="來源: http://yakei-fan.com/yakei/tokyo/tochon.html" data-image-popup>
-<p class="image__quote"><span class="add-cite"></span>
-<small><a href="http://yakei-fan.com/yakei/tokyo/tochon.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
-http://yakei-fan.com</a></small></p></figure>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" title="來源: http://yakei-fan.com/yakei/tokyo/tochon.html" data-image-popup></figure>
 <div class="info info-spot">
 <div class="info__content">
 <div class="info__description">
