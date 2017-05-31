@@ -8,9 +8,9 @@
   
   <head>
     <center>
-      <big>
+      <B>
         東京自由行
-      </big>
+      </B>
     </center>
   </head>
   <hr size="7" align="center" noshade width="100%" color="ffffff">
