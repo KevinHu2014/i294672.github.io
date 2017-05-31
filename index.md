@@ -6,7 +6,7 @@
       </font>
     </center>
   </head>
-  <hr size="5";align="center";noshade width="100%" color="ffffff">
+  <hr size="5" align="center" noshade width="100%" color="ffffff">
   <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
-  <img align="center";src="http://www.tokyotoushi.com/sites/default/themes/tokyotoushi/img/zh-hant/map/map-tyo-all.jpg" >
+  <img align="center" src="http://www.tokyotoushi.com/sites/default/themes/tokyotoushi/img/zh-hant/map/map-tyo-all.jpg" >
 </html>
