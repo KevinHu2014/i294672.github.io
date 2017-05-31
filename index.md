@@ -108,83 +108,26 @@
 <dd><a href="http://www.metro.tokyo.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.metro.tokyo.jp/</a></dd>
 </dl></div> </div></div>
 <h2 class="article__title">■景點4：東京巨蛋樂園</h2>
-<figure class="article__image">
-                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" title="來源: http://www.tokyo-park.net/1310561001_01.html" data-image-popup>
-                                                                                                        <p class="image__quote">
-                                                  <span class="add-cite"></span>
-                          <small>
-                                                          <a href="http://www.tokyo-park.net/1310561001_01.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
-                                http://www.tokyo-park.net
-                              </a>
-                                                      </small>
-                                              </p>
-                                      </figure>
-                
-                
-                
-                
-                
-                                              
-                
-                
-                                                      <p class="article__text">
-                      這裡是位於東京巨蛋內的一個都市型的主題公園，劃分為溫泉游樂區，室外游樂區，魔術表演區，噴泉花園區，探寶冒險區，空中飛翔區。在這裡我們會忘記自己是身處在大都市裡，能盡情地享受這些娛樂項目。作為游樂園內人氣排名第一的游樂項目，驚雷海豚飛快地在溫泉主題建築群和巨大機器人中穿梭，盡情享受著在溫泉主題區內縱橫交錯地飛躍而帶來的百分百的滿足感。<br />免費入場，一天游玩門票：大人3900日元，60歲以上以及中學生和高中生3400日元，小學生2100日元，兒童1300日元。
-                    </p>
-                                  
-                
-                
-                                              
-                                  <figure class="article__image">
-                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%BC%E3%82%A2" data-image-popup>
-                                                                                                        <p class="image__quote">
-                                                  <span class="add-cite"></span>
-                          <small>
-                                                          <a href="http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%BC%E3%82%A2" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
-                                http://ja.wikipedia.org
-                              </a>
-                                                      </small>
-                                              </p>
-                                      </figure>
-                
-                
-                
-                
-                
-                                              
-                
-                
-                
-                
-                
-                                  <div class="info info-spot">
-                    <div class="info__content">
-                                            <div class="info__description">
-                                                  <h3 class="info__title">
-                            東京巨蛋樂園
-                          </h3>
-                                                                          <dl>
-                            <dt><i class="icon-map"></i></dt>
-                            <dd>東京都文京區後樂1-3-61</dd>
-                          </dl>
-                                                                          <dl>
-                            <dt><i class="icon-tel"></i></dt>
-                            <dd>03-5800-9999（東京巨蛋熱線）</dd>
-                          </dl>
-                                                                          <dl>
-                            <dt><i class="icon-clock"></i></dt>
-                            <dd>10:00~21:00</dd>
-                          </dl>
-                                                                          <dl>
-                            <dt><i class="icon-day-off"></i></dt>
-                            <dd>年中無休</dd>
-                          </dl>
-                                                                                                  <dl>
-                            <dt><i class="icon-link"></i></dt>
-                            <dd><a href="http://at-raku.com/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://at-raku.com/</a></dd>
-                          </dl>
-                                              </div>
-                    </div>
-                  </div>
-                                          </div>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" title="來源: http://www.tokyo-park.net/1310561001_01.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">這裡是位於東京巨蛋內的一個都市型的主題公園，劃分為溫泉游樂區，室外游樂區，魔術表演區，噴泉花園區，探寶冒險區，空中飛翔區。在這裡我們會忘記自己是身處在大都市裡，能盡情地享受這些娛樂項目。作為游樂園內人氣排名第一的游樂項目，驚雷海豚飛快地在溫泉主題建築群和巨大機器人中穿梭，盡情享受著在溫泉主題區內縱橫交錯地飛躍而帶來的百分百的滿足感。<br />免費入場，一天游玩門票：大人3900日元，60歲以上以及中學生和高中生3400日元，小學生2100日元，兒童1300日元。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%BC%E3%82%A2" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+</p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京巨蛋樂園</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都文京區後樂1-3-61</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-5800-9999（東京巨蛋熱線）</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>10:00~21:00</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>年中無休</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://at-raku.com/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://at-raku.com/</a></dd>
+</dl></div></div></div>          
 <a href="#top">--TOP--</a> 
 </html>
