@@ -6,7 +6,13 @@
   </script>
 <html>
   
-  <head><center>東京自由行</center></head>
+  <head>
+    <center>
+      <big>
+        東京自由行
+      </big>
+    </center>
+  </head>
   <hr size="7" align="center" noshade width="100%" color="ffffff">
   <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
   
