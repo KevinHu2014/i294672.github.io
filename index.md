@@ -58,5 +58,142 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.senso-ji.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.senso-ji.jp/</a></dd>
 </dl></div></div></div>
+<h2 class="article__title">■景點2：東京塔展望台</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2045/700/4e24b723f2c718ce7bf408ea1b87960684b85976_57397db0898c3.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2045/700/4e24b723f2c718ce7bf408ea1b87960684b85976_57397db0898c3.jpeg" title="來源: http://www.imart.co.jp/livecamera-page.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+<small><a href="http://www.imart.co.jp/livecamera-page.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+http://www.imart.co.jp </a></small>
+</p></figure>
+<p class="article__text">作為電波塔，高333米的東京塔雖然已經成功地將其任務移交給東京晴空塔，但是作為後備之力東京塔今仍扮演著重要的角色。站在150米高度的展望台可以將關東的景色一覽無余。大展望台特設舞台舉辦演唱會，現邀DJ舉行CLUB333活動等，還有能吃到東京塔冰淇淋的咖啡店。在晴天登上250米高度的特別展望台，可以遠遠眺望富士山和築波山。<br />門票：大展望台--大人900日元，孩子500日元，幼兒400日元；特別展望台--大人700日元，孩子500日元，幼兒400日元；大展望台＋特別展望台--大人1600日元，孩子1000日元，幼兒800日元。</p>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2046/700/3456bf92b630d831170f06d319431b4b9d5b49a4_57397db84c682.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2046/700/3456bf92b630d831170f06d319431b4b9d5b49a4_57397db84c682.jpeg" title="來源: http://www.yakei-navi.com/yakei/tokyo_23/minato_ttowertenbou/" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+ <small><a href="http://www.yakei-navi.com/yakei/tokyo_23/minato_ttowertenbou/" rel="nofollow" target="_blank" data-event-send='["outbound"]'> http://www.yakei-navi.com</a> </small>
+</p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京塔展望台</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都港區芝公園4-2-8</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3433-5111</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>9:00~22:00</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+ <dd>年中無休</dd></dl>
+ <dl><dt><i class="icon-link"></i></dt>
+ <dd><a href="http://www.tokyotower.co.jp/index.html" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyotower.co.jp/index.html</a></dd>
+</dl></div></div></div>
+<h2 class="article__title">■景點3：東京都廳展望台</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+<small><a href="http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+http://ja.wikipedia.org</a></small>
+</p></figure>
+<p class="article__text">作為東京的地標之一，東京都廳高243米，是一幢48樓的超高層建築。在這裡，你可以免費欣賞東京的全景和夜景，已成為學生畢業旅游的必到之地。南面的展望台到下午5點，北面的展望台到晚上11點結束。從離地202米的高處可以俯瞰新宿公園塔以及東京歌劇院，更可以360度全方位欣賞到東京的夜景。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" title="來源: http://yakei-fan.com/yakei/tokyo/tochon.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+<small><a href="http://yakei-fan.com/yakei/tokyo/tochon.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+http://yakei-fan.com</a></small></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京都廳展望台</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都新宿區西新宿2-8-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-5321-1111</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>9：30~23:00（南面的展望台到17:30結束）</dd>
+</dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>南面展望台： 第一周和第三周的週三休息/ 北面展望台：第二周和第四周的週一休</dd></dl>
+<dl><dt><i class="icon-plan"></i></dt>
+<dd>免費參觀</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.metro.tokyo.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.metro.tokyo.jp/</a></dd>
+</dl></div> </div></div>
+<h2 class="article__title">■景點4：東京巨蛋樂園</h2>
+<figure class="article__image">
+                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2049/700/bb6a586ae7bdc2d4836643560e53a316b1336b29_57397df7962d0.jpeg" title="來源: http://www.tokyo-park.net/1310561001_01.html" data-image-popup>
+                                                                                                        <p class="image__quote">
+                                                  <span class="add-cite"></span>
+                          <small>
+                                                          <a href="http://www.tokyo-park.net/1310561001_01.html" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+                                http://www.tokyo-park.net
+                              </a>
+                                                      </small>
+                                              </p>
+                                      </figure>
+                
+                
+                
+                
+                
+                                              
+                
+                
+                                                      <p class="article__text">
+                      這裡是位於東京巨蛋內的一個都市型的主題公園，劃分為溫泉游樂區，室外游樂區，魔術表演區，噴泉花園區，探寶冒險區，空中飛翔區。在這裡我們會忘記自己是身處在大都市裡，能盡情地享受這些娛樂項目。作為游樂園內人氣排名第一的游樂項目，驚雷海豚飛快地在溫泉主題建築群和巨大機器人中穿梭，盡情享受著在溫泉主題區內縱橫交錯地飛躍而帶來的百分百的滿足感。<br />免費入場，一天游玩門票：大人3900日元，60歲以上以及中學生和高中生3400日元，小學生2100日元，兒童1300日元。
+                    </p>
+                                  
+                
+                
+                                              
+                                  <figure class="article__image">
+                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2050/700/87be6705aa1f3f903164ff61c9f55f464696500c_57397dff7c859.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%BC%E3%82%A2" data-image-popup>
+                                                                                                        <p class="image__quote">
+                                                  <span class="add-cite"></span>
+                          <small>
+                                                          <a href="http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%BC%E3%82%A2" rel="nofollow" target="_blank" data-event-send='["outbound"]'>
+                                http://ja.wikipedia.org
+                              </a>
+                                                      </small>
+                                              </p>
+                                      </figure>
+                
+                
+                
+                
+                
+                                              
+                
+                
+                
+                
+                
+                                  <div class="info info-spot">
+                    <div class="info__content">
+                                            <div class="info__description">
+                                                  <h3 class="info__title">
+                            東京巨蛋樂園
+                          </h3>
+                                                                          <dl>
+                            <dt><i class="icon-map"></i></dt>
+                            <dd>東京都文京區後樂1-3-61</dd>
+                          </dl>
+                                                                          <dl>
+                            <dt><i class="icon-tel"></i></dt>
+                            <dd>03-5800-9999（東京巨蛋熱線）</dd>
+                          </dl>
+                                                                          <dl>
+                            <dt><i class="icon-clock"></i></dt>
+                            <dd>10:00~21:00</dd>
+                          </dl>
+                                                                          <dl>
+                            <dt><i class="icon-day-off"></i></dt>
+                            <dd>年中無休</dd>
+                          </dl>
+                                                                                                  <dl>
+                            <dt><i class="icon-link"></i></dt>
+                            <dd><a href="http://at-raku.com/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://at-raku.com/</a></dd>
+                          </dl>
+                                              </div>
+                    </div>
+                  </div>
+                                          </div>
 <a href="#top">--TOP--</a> 
 </html>
