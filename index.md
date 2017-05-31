@@ -7,7 +7,7 @@
 <html>
 
   <head>東京自由行</head>
-  <hr size="7" align="center" noshade width="100%" color="black">
+  <hr size="7" align="center" noshade width="100%" color="ffffff">
   <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
   
 </html>
