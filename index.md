@@ -1,9 +1,9 @@
 <html>  
   <head>
     <center>
-      <B>
+      <font size="7">
         東京自由行
-      </B>
+      </font>
     </center>
   </head>
   <hr size="7" align="center" noshade width="100%" color="ffffff">
