@@ -13,7 +13,7 @@
             background-size: cover;
         }
   </style>
-  <hr size="5" align="center" noshade width="90%" color="0000ff">
+  <hr size="7" align="center" noshade width="100%" color="black">
   <marquee behavior="alternate">Welcome to TOKYO!!</marquee>
   
 </html>
