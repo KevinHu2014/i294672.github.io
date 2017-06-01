@@ -129,5 +129,50 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://at-raku.com/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://at-raku.com/</a></dd>
 </dl></div></div></div>          
+<h2 class="article__title">■景點5：阿美橫丁商店街</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2051/700/d3a4d413a94e7b7a2aff67dfeb325c898c0b86fc_57397e081cf82.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2051/700/d3a4d413a94e7b7a2aff67dfeb325c898c0b86fc_57397e081cf82.jpeg" title="來源: http://taitonavi.jp/enjoy_detail.html?no=189" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">這裡是上野車站和御徒町車站之間一條長約400米的商店街，聚集了食品，點心，珠寶，化妝品，日常生活用品以及名牌等各種各樣的店鋪，其數量超過400家。特別是以年末的時候大家大量采購新年用的生鮮食品的盛況出名。2013年上半年播放的NHK早晨日劇【あまちゃん（a ma cyan）】就是在阿美橫丁商店街拍攝的，所以這裡更是成了人氣的觀光地。 </p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2052/700/3132d21d8f5905f9f41e3b39a25c0730e50a075f_57397e100f6c4.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2052/700/3132d21d8f5905f9f41e3b39a25c0730e50a075f_57397e100f6c4.jpeg" title="來源: http://photohito.com/photo/1569592/" data-image-popup><p class="image__quote">
+<span class="add-cite"></span></p></figure>
+<div class="info info-spot"><div class="info__content">
+<div class="info__description">
+<h3 class="info__title">阿美橫丁商店街
+</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都台東區JR東日本： 御徒町站 - 上野站之間的山手線高架橋西側和下面</dd>
+</dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>以各個店鋪時間為准</dd>
+</dl>
+<dl>
+<dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.ameyoko.net/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.ameyoko.net/</a></dd>
+</dl>
+</div></div></div>
+<h2 class="article__title">■景點6：東京晴空塔</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2053/700/eee7b798b94ed6316bef2648026d27ab4ce0055f_57397e1e5fc3d.png" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2053/700/eee7b798b94ed6316bef2648026d27ab4ce0055f_57397e1e5fc3d.png" title="來源: https://www.facebook.com/TOKYOSKYTREE.official/photos/pb.149655571740038.-2207520000.1419768155./677796878925902/?type=3&amp;theater" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+</p></figure>
+<p class="article__text">坐擁日本第一高度634米，讓世界為之驕傲的電波塔東京晴空塔是東京觀光不可或缺的新地標。<br />天望甲板（第一展望台）位於第340層，第345層和第350層，門票可以提前預約指定。當天入場券是大人2060日元，高中生和中學生是1540日元，小學生是930日元，兒童是620日元。340樓層設有2米×3米的耐高溫強化玻璃地板，只有站在這裡眺望風景方可感受到其無限的魅力。若是想登上350層的天望迴廊（第二展望台），就必須要在350層的門票售賣點買票後乘坐專用電梯進入。第二展望台的門票不可以提前購買，只有當天售賣。大人1030日元，高中生和中學生820日元，小學生510日元，兒童310日元。從445樓開始步行，仿佛空中漫步於斜坡狀的天望迴廊，最後到達最高點451.2米450層Sorakara Point。 </p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2054/700/5dcdea88d28e083291c9da1ee23001257bce1d1b_57397e268afbe.png" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2054/700/5dcdea88d28e083291c9da1ee23001257bce1d1b_57397e268afbe.png" title="來源: https://www.facebook.com/TOKYOSKYTREE.official/photos/pb.149655571740038.-2207520000.1419768121./801484479890474/?type=3&amp;theater" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span>
+</p> </figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京晴空塔</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都墨田區押上1-1-2</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-5302-3470</dd> </dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>展望台 8:00～22:00（最終入場時間21:00） /天望回廊（最終入場時間21:20)</dd> </dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>無休</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tokyo-skytree.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-skytree.jp/</a></dd>
+</dl></div></div></div>
 <a href="#top">--TOP--</a> 
 </html>
