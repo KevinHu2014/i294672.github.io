@@ -174,5 +174,48 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.tokyo-skytree.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-skytree.jp/</a></dd>
 </dl></div></div></div>
+<h2 class="article__title">■景點7：東京晴空街</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2055/700/7deb180f208d4e3f12abc9093057c6daa82866b3_57397e3f55b4a.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2055/700/7deb180f208d4e3f12abc9093057c6daa82866b3_57397e3f55b4a.jpeg" title="來源: http://dacapo.magazineworld.jp/report/82172/" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">在晴空塔上欣賞了美景之後來到東京晴空街逛街購物吃飯是最基本的模式。在一樓有一條面臨車站的購物街，還有一條全長約120米的晴空商店街，在這裡聚集了食品，雜貨和咖啡小點等35家店鋪。在2樓的西區、塔樓區是本地區的“廚房”，那裡雲集了限量點心和有名的伴手禮。6樓和7樓的東區是這幢大樓內主要的餐飲區。在6樓，你可以安心享受到平民化套餐，以及代表日本各地特色的專門料理店。晴空街道餐廳 晴空塔VIEW在約150米的高空。這裡適合家族或情侶，在值得紀念的日子，可以近觀東京晴空塔的同時享受美食。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2056/700/13830ba37edb68048e8d75f8f58a0a6f9fbcb065_57397e4a764e0.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2056/700/13830ba37edb68048e8d75f8f58a0a6f9fbcb065_57397e4a764e0.jpeg" title="來源: http://hoshino.asablo.jp/blog/2012/05/31/6464013" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京晴空街</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都墨田區押上1-1-2</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>0570-55-0102（東京太陽能街熱線中心： 10:00~21:00）</dd>
+</dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>10:00~21:00 （B區3樓~5樓） 11:00~23:00（6樓，7樓，30樓，31樓）</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>不定休</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tokyo-solamachi.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-solamachi.jp/</a></dd>
+</dl></div></div></div>
+<h2 class="article__title">■景點8：明治神宮</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2057/700/bbb5c234769286192b770b2683e62cb9c0f6effd_57397e5d02325.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2057/700/bbb5c234769286192b770b2683e62cb9c0f6effd_57397e5d02325.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">明治神宮是供奉日本明治天皇和昭憲皇太後靈位的神社。以幽靜，井然有序的內苑為中心，外苑以聖德紀念繪畫館為始也雲集了眾多優秀的運動設施。明治紀念館是專門舉行結婚儀式，開幕儀式和聚會派對的場所。<br />作為每年日本的新年初拜人數最多的神社，這裡除了每年特定的活動之外，每月1號和15日都要舉行祭拜月亮的活動，一年裡每天都要給神明供奉食物，每天早上8點都進行早祭，下午2點要進行午祭，祈禱皇室的繁榮，國家的安寧，國民的幸福已及世界的和平。內苑種植了247種17萬株自然林化的人工樹林。內苑裡除了有隔雲亭，四阿亭，還有釣魚台，菖蒲田，清正井等等。為了祭拜明治天皇和昭憲皇太後而種植的花菖蒲的盛開旺季是在6月，11月下旬開始到12月上旬可以觀賞到紅葉。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2058/700/94d7a04f51170cd20733f8769cc8cbf6d8bed7a4_57397e6614942.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2058/700/94d7a04f51170cd20733f8769cc8cbf6d8bed7a4_57397e6614942.jpeg" title="來源: http://harumikt.pixnet.net/blog/post/24685770-12-02%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">明治神宮</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都澀谷區代代木神園町1-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3379-5511</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>日出開門，日落關門，和根據月出月落的開門關門時間有所差異</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.meijijingu.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.meijijingu.or.jp/</a></dd>
+</dl></div></div></div>
 <a href="#top">--TOP--</a> 
 </html>
