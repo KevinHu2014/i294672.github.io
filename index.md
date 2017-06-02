@@ -217,5 +217,57 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.meijijingu.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.meijijingu.or.jp/</a></dd>
 </dl></div></div></div>
+<h2 class="article__title">■景點9：AQUA CiTY ODAIBA</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2059/700/a9d1e051dd9200db3682bfb07d2219f7d6fb0039_57397e6edadbd.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2059/700/a9d1e051dd9200db3682bfb07d2219f7d6fb0039_57397e6edadbd.jpeg" title="來源: http://mvhp.cafe.coocan.jp/pref/p13/mds1625.php?PHPSESSID=a5087fe5e5517c32c40aa2ab1b765d2e" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">AQUA CiTY ODAIBA極具地中海沿街氛圍，是一幢顏色柔和外觀顯眼的大型綜合商場，位於富士電視台總社的正對面。在這裡聚集了時尚，化妝品，珠寶，雜貨以及內部裝飾等大約120家店鋪。1樓有一家規模屈指可數的復合式影城，有13個放映廳，3034個座位。從專用的通道進入影院，既有適合情侶二人世界的座，也有超級VIP座。這裡有大約50家餐廳，既有異域風情的餐廳【Monsoon cafe】，也有夏威夷風情的【Eggs 'n Things】。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2060/700/2d910aa2bf65ae2eada895e66c21a8782b5b8fc3_57397e771704a.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2060/700/2d910aa2bf65ae2eada895e66c21a8782b5b8fc3_57397e771704a.jpeg" title="來源: http://www.aquacity.jp/special/201106_view/" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">AQUA CiTY ODAIBA</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都港區台場1-7-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3599-4700</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>11:00~23:00</dd></dl>
+<dl><dt><i class="icon-plan"></i></dt>
+<dd>根據各家店鋪設施營業時間有所變動</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.aquacity.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.aquacity.jp/</a></dd>
+</dl></div></div></div>
+<h2 class="article__title">■景點10：東京都中區批發市場 築地市場</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2061/700/df1d3001b8433176411597ec9df882f9ca92ced0_57397e7de7ca4.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2061/700/df1d3001b8433176411597ec9df882f9ca92ced0_57397e7de7ca4.jpeg" title="來源: http://www.47news.jp/localnews/tekuteku/machi_archimedes/226566.php" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">這裡是全球公認的規模最大的批發市場。築地市場不但批發生鮮食品，還彙集了蔬菜，水果，雞蛋，腌制物以及加工品等各種與飲食相關的商店，一般客戶也可以在這裡自由地享受購物，還有為各地外國游客准備的旅游介紹手冊。這裡也有很多飲食店，有幸可以用實惠的價格嘗到正宗的江戶前壽司店的料理，酒蒸牡蠣，外國餐廳和拉面店，加上市場外面一共有大約400家店鋪。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2062/700/2c0c01d7db3264c2bd285830ddc390b7f82af772_57397e98dae52.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2062/700/2c0c01d7db3264c2bd285830ddc390b7f82af772_57397e98dae52.jpeg" title="來源: http://mangekyo-kan-dayori2.sblo.jp/article/59139678.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+                    <div class="info__content">
+                                              <figure class="info__thumbnail">
+                          <div class="info__image" style="background-image:url(https://d2j3coy501s4ze.cloudfront.net/images/2061/700/df1d3001b8433176411597ec9df882f9ca92ced0_57397e7de7ca4.jpeg);"></div>
+                        </figure>
+                                            <div class="info__description">
+                                                  <h3 class="info__title">
+                            東京都中區批發市場 築地市場
+                          </h3>
+                                                                          <dl>
+                            <dt><i class="icon-map"></i></dt>
+                            <dd>東京都中央區築地4-16-2 千社額棟1樓（綜合指南 築地情報市場）</dd>
+                          </dl>
+                                                                                                                          <dl>
+                            <dt><i class="icon-day-off"></i></dt>
+                            <dd>週日，法定節假日，每週三基本休市</dd>
+                          </dl>
+                                                                                                  <dl>
+                            <dt><i class="icon-link"></i></dt>
+                            <dd><a href="http://www.tsukiji.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tsukiji.or.jp/</a></dd>
+                          </dl>
+                                              </div>
+                    </div>
+                  </div>
 <a href="#top">--TOP--</a> 
 </html>
