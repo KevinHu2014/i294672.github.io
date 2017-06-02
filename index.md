@@ -246,28 +246,59 @@
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2062/700/2c0c01d7db3264c2bd285830ddc390b7f82af772_57397e98dae52.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2062/700/2c0c01d7db3264c2bd285830ddc390b7f82af772_57397e98dae52.jpeg" title="來源: http://mangekyo-kan-dayori2.sblo.jp/article/59139678.html" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span></p></figure>
 <div class="info info-spot">
-                    <div class="info__content">
-                                              <figure class="info__thumbnail">
-                          <div class="info__image" style="background-image:url(https://d2j3coy501s4ze.cloudfront.net/images/2061/700/df1d3001b8433176411597ec9df882f9ca92ced0_57397e7de7ca4.jpeg);"></div>
-                        </figure>
-                                            <div class="info__description">
-                                                  <h3 class="info__title">
-                            東京都中區批發市場 築地市場
-                          </h3>
-                                                                          <dl>
-                            <dt><i class="icon-map"></i></dt>
-                            <dd>東京都中央區築地4-16-2 千社額棟1樓（綜合指南 築地情報市場）</dd>
-                          </dl>
-                                                                                                                          <dl>
-                            <dt><i class="icon-day-off"></i></dt>
-                            <dd>週日，法定節假日，每週三基本休市</dd>
-                          </dl>
-                                                                                                  <dl>
-                            <dt><i class="icon-link"></i></dt>
-                            <dd><a href="http://www.tsukiji.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tsukiji.or.jp/</a></dd>
-                          </dl>
-                                              </div>
-                    </div>
-                  </div>
+<div class="info__content">
+<figure class="info__thumbnail">
+<div class="info__image" style="background-image:url(https://d2j3coy501s4ze.cloudfront.net/images/2061/700/df1d3001b8433176411597ec9df882f9ca92ced0_57397e7de7ca4.jpeg);"></div>
+</figure>
+<div class="info__description">
+<h3 class="info__title">東京都中區批發市場 築地市場</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都中央區築地4-16-2 千社額棟1樓（綜合指南 築地情報市場）</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>週日，法定節假日，每週三基本休市</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tsukiji.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tsukiji.or.jp/</a></dd></dl></div></div></div>
+<h2 class="article__title">■景點11：靖國神社</h2>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2063/700/f2f0e872d04cecd2554af3948fe30d4be7c2b818_57397ea1f160f.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2063/700/f2f0e872d04cecd2554af3948fe30d4be7c2b818_57397ea1f160f.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">靖國神社於明治2年6月29日奉明治天皇之諭而建，開始名為東京招魂社，於明治12年改名為靖國神社並延至今日。社內供奉了自明治維新，戊辰之戰，日俄戰爭中為國捐軀的246萬6千多柱神靈，這裡沒有身份等級之別，沒有功勛之別，更沒有男女之別，是為了安慰那些為國捐軀的神靈，讓後人永遠紀念他們。同時這裡也是櫻花盛開的有名場所，每年春天都有很多觀光客到訪這裡。</p>
+<figure class="article__image">
+<img src="https://d2j3coy501s4ze.cloudfront.net/images/2064/700/3be2c751a078e240796f37692d4bb44388379051_57397ea9d1329.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2064/700/3be2c751a078e240796f37692d4bb44388379051_57397ea9d1329.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">靖國神社</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都千代田區九段北3丁目1-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3261-8326</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>6:00〜18:00</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.yasukuni.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.yasukuni.or.jp/</a></dd>
+</dl></div></div></div>
+<h2 class="article__title">■景點12：上野動物園</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2065/700/4dadbee25bb0fddc6c0d3048b1ec57c38fd04be7_57397ef10d542.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2065/700/4dadbee25bb0fddc6c0d3048b1ec57c38fd04be7_57397ef10d542.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">上野動物園創下日本動物園的入園人數的記錄，於明治15年開園，是日本第一座動物園。雖然地處東京市中心，但是這裡是一座保持著自然景觀的都市型動物園，園內飼養了大約400種3,000頭動物。<br />入園門票：成人600日元，65歲以上300日元，中學生200日元，小學生以下以及住在都內的在校中學生免費。<br />這裡盡量在為動物們創造一個接近於自然狀態的飼養環境。為了飼養西部低地的大猩猩，園方和國內外的動物園共同協力群體飼養，為大猩猩創造了一個悠閑地繁殖環境。上野公園有丘陵地，可以讓人們領略到在市中心無法想像的美景。園內還飼養了大熊貓，㺢㹢狓，矮河馬世界三大稀有動物。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2066/700/eec1d5f5189325b6a993fe0c7597f113b57925c6_57397efab2ed6.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2066/700/eec1d5f5189325b6a993fe0c7597f113b57925c6_57397efab2ed6.jpeg" title="來源: http://japanese.cri.cn/881/2010/12/28/163s168749.htm" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">上野動物園</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都台東區上野公園9-83</dd> </dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-3828-5171</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>9:30~17:00</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>週一（如遇國民節假日、代休日或都民日則改為第二天）</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tokyo-zoo.net/zoo/ueno/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-zoo.net/zoo/ueno/</a></dd>
+</dl></div></div></div>
 <a href="#top">--TOP--</a> 
 </html>
