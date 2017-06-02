@@ -300,5 +300,74 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.tokyo-zoo.net/zoo/ueno/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-zoo.net/zoo/ueno/</a></dd>
 </dl></div></div></div>
+<h2 class="article__title">■景點13：東京車站</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2067/700/62c10c57aaab0f1354b67adaf8ebb645d66e7a8c_57397f0bb827a.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2067/700/62c10c57aaab0f1354b67adaf8ebb645d66e7a8c_57397f0bb827a.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">2003年的國家重要文化財產評定中，東京站被列為關東百選車站之一，像征著東京正門的終點車站。為了迎接東京車站開業100周年，復原了創建當時建築的原貌，這裡也是非常值得一看的地方。車站內有一個大型百貨GRANSUTA，裡面有限定品牌店，又能品嘗美味的熟食店，還有高級點心店等超過60家店鋪。在這裡你可以隨意地逛，也可以嘗到正宗的美味，充分感受到美食的魅力。 </p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2068/700/a729dc01f92653aadab50ac4442eb169dfd49110_57397f1ab49a5.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2068/700/a729dc01f92653aadab50ac4442eb169dfd49110_57397f1ab49a5.jpeg" title="來源: http://chiyoda-tokyo.sakura.ne.jp/seisiga/kobetsu/tokyos-n.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">東京車站</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都千代田區丸之內一丁目</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tokyoinfo.com/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyoinfo.com/</a></dd></dl></div></div></div>
+<h2 class="article__title">■景點14：東京都葛西臨海水族館</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2069/700/3d5f9bf184ef266bfdab70674f54c50dcc62b044_57397f26a6f14.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2069/700/3d5f9bf184ef266bfdab70674f54c50dcc62b044_57397f26a6f14.jpeg" title="來源: http://en-ken.info/?p=2198" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">為了重新打造東京灣沿岸地區的風景，紀念上野動物園開園100周年，創造大海與人類的交流場所，東京都葛西臨海水族館於1989年開園。開園至今這裡仍是東日本最有人氣的水族館，館內有2200噸重，甜甜圈形狀的黑色金槍魚大水槽，還有國內最大的企鵝展示館，47個大水槽裡飼養了大約650種生物。館內還有奇形怪狀的澳大利亞近海魚以及珍貴的南極北極魚類，這些都是值得參觀的地方。門票是成人700日元，中學生250日元，65歲以上350日元，小學生以下以及住在都內的在校中學生免費。 </p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2070/700/0918796021fb1aba095f20988b8dd390941f5285_57397f3086bf4.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2070/700/0918796021fb1aba095f20988b8dd390941f5285_57397f3086bf4.jpeg" title="來源: http://machicon.jp/126%E5%9C%9F%E2%98%86%E6%B5%B7%E3%81%AE%E7%94%9F%E3%81%8D%E7%89%A9%E9%81%94%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%84%E3%82%92%E3%83%84%E3%83%8A%E3%82%B0%E2%98%86%E6%B0%B4%E6%97%8F%E9%A4%A8%E3%82%B3" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">葛西臨海公園・葛西臨海水族館</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都江戶川區臨海町6</dd> </dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-5696-1331</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>[葛西臨海公園]全天 ［葛西臨海水族館］９：３０〜１７：００</dd></dl>
+<dl><dt><i class="icon-day-off"></i></dt>
+<dd>［葛西臨海水族館］ 三 (節假日順延一天)</dd></dl>
+<dl><dt><i class="icon-plan"></i></dt>
+<dd>[葛西臨海公園]成人700日元，初中250日元，65歲以上350日元，小學生以下及在住東京的初中生免費/停車場24小時營業，最初1小時200日元,後每30分鐘100日元</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://www.tokyo-park.or.jp/park/format/index026.html" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-park.or.jp/park/format/index026.html</a></dd>
+</dl></div></div></div>
+<h2 class="article__title">■景點15：六本木Hills</h2>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2071/700/24e24f13490999a6b2f44f2778d30d1fb3e6d02e_57397f393b120.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2071/700/24e24f13490999a6b2f44f2778d30d1fb3e6d02e_57397f393b120.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA" data-image-popup>
+                                                                                                        <p class="image__quote">
+                                                  <span class="add-cite"></span></p>
+                                      </figure>
+<p class="article__text">
+                      坐擁地上54樓，高238米的超高層六本木辦公樓，以六本木森大廈為中心，配套多種綜合性設施。有4棟是屬於六本木Hills的住宅區，總住宅戶達到793戶； 屋外多功能露天娛樂場所-六本木Hills露天廣場；世界星級飯店-東京君悅飯店；擁有國內最先進的影音設備的六本木HillsTOHO影城；朝日電視台，毛利庭園等等。<br />東京城市觀景台位於森大廈52樓，海拔250米，高11米且配有環繞建築360°的落地玻璃窗，從這個充滿空間開放感的地方可以對東京都市的街景一覽無余。不僅如此，森大廈的屋頂上，位於海拔270米的地方還設有天望甲板，以日本最高的戶外展望台引以為傲。六本木Hills森大廈最上面的53層是森美術館，整棟建築大約有200家以上的餐廳，可以在這裡度過愉快的一天。
+                    </p>
+<figure class="article__image">
+                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA" data-image-popup>
+                                                                                                        <p class="image__quote">
+                                                  <span class="add-cite"></span></p>
+                                      </figure>
+<div class="info info-spot">
+                    <div class="info__content">
+                                            <div class="info__description">
+                                                  <h3 class="info__title">
+                            六本木HILLS
+                          </h3>
+                                                                          <dl>
+                            <dt><i class="icon-map"></i></dt>
+                            <dd>東京都港區六本木6-11-1</dd>
+                          </dl>
+                                                                          <dl>
+                            <dt><i class="icon-tel"></i></dt>
+                            <dd>03-6406-6000</dd>
+                          </dl>
+                                                                          <dl>
+                            <dt><i class="icon-clock"></i></dt>
+                            <dd>7:00〜21:00</dd>
+                          </dl></div>                                                                                      
+                    </div>
 <a href="#top">--TOP--</a> 
 </html>
