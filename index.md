@@ -9,6 +9,7 @@
   <hr size="5" align="center" noshade width="100%" color="#000000">
   <font size="5"><marquee behavior="alternate">Welcome to TOKYO!!</marquee></font>
   <img align="center" src="http://www.tokyotoushi.com/sites/default/themes/tokyotoushi/img/zh-hant/map/map-tyo-all.jpg" >
+  <a href="#a1">请点我</a>
   <ul>
     東京是一座位於日本本州島東部的都市，也是現今事實上的的日本首都，以東京都區部為中心（即一般所認知的東京市區），目前光此23區部之人口數達922萬；若包含多摩地區及鄰近擴張相連之城區的東京首都圈，人口總數則達3千5百萬，是目前全球規模最大的都會區，亦為亞洲重要的世界級城市。東京是傳統上的全球四大世界級城市之一，在2014年全球城市指數排名中排名第四名（亞洲第一名），也是全球第三大金融中心，僅次於紐約及倫敦。
   </ul>
@@ -87,7 +88,7 @@
 <figure class="article__image">
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2047/700/00947c17e55f90082fc109174f3d0350d28a4cf4_57397dde0872e.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%81%B7%E5%93%A1%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88" data-image-popup>
 </figure>
-<p class="article__text">作為東京的地標之一，東京都廳高243米，是一幢48樓的超高層建築。在這裡，你可以免費欣賞東京的全景和夜景，已成為學生畢業旅游的必到之地。南面的展望台到下午5點，北面的展望台到晚上11點結束。從離地202米的高處可以俯瞰新宿公園塔以及東京歌劇院，更可以360度全方位欣賞到東京的夜景。</p>
+<p class="article__text">作為東京的地標之一，東京都廳高243米，是一幢48樓的超高層建築。在這裡，你可以免費欣賞東京的全景和夜景，已成為學生畢業旅游的必到之地。南面的展望台到下午5點，北面的展望台到晚上11點結束。從離地202米的高處可以俯瞰新宿公園塔以及東京歌劇院，更可以360度全方位欣賞到東京的夜景。</p><div id="a1">跳到这里</div>
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2048/700/2030def04f4d92b0d07a17cf3a6295f5e0051945_57397def95d8d.jpeg" title="來源: http://yakei-fan.com/yakei/tokyo/tochon.html" data-image-popup></figure>
 <div class="info info-spot">
 <div class="info__content">
