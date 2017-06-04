@@ -231,6 +231,7 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.meijijingu.or.jp/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.meijijingu.or.jp/</a></dd>
 </dl></div></div></div>
+<div id="b1"></div>
 <h2 class="article__title">■景點9：AQUA CiTY ODAIBA</h2>
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2059/700/a9d1e051dd9200db3682bfb07d2219f7d6fb0039_57397e6edadbd.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2059/700/a9d1e051dd9200db3682bfb07d2219f7d6fb0039_57397e6edadbd.jpeg" title="來源: http://mvhp.cafe.coocan.jp/pref/p13/mds1625.php?PHPSESSID=a5087fe5e5517c32c40aa2ab1b765d2e" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span></p></figure>
