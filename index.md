@@ -383,6 +383,22 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://sankan.kunaicho.go.jp/order/order_simple_flow.html" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://sankan.kunaicho.go.jp/order/order_simple_flow.html</a></dd>
 </dl></div></div>
+<div id="a8"></div>
+<h2 class="article__title">■景點17：秋葉原</h2>
+<figure class="article__image"><img src="http://www.tabitabi-japan.com/areainfo/images/akihabara_top.jpg" data-mfp-src="http://www.tabitabi-japan.com/areainfo/images/akihabara_top.jpg" title="來源: http://www.tabitabi-japan.com/areainfo/akihabara.jsp" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">秋葉原在戰後沒多久就以舊國鐵的陸橋下為中心，以販賣無線機器之類的零件起步而形成商圈。並且逐步改頭換面成為低價家電、電腦零件的商圈。進入21世紀之後，則又改變面貌，成為動畫、遊戲等日本發祥的「宅」文化的發信商圈。另一方面，也藉由再開發，除了興建秋葉原DAI大樓、UDX大樓等大型商業大樓以外，還有大型家電量販店的旗艦店之類也進軍此區。</p>
+<figure class="article__image"><img src="https://tw.bring-you.info/imgs/2014/08/%E7%A7%8B%E8%91%89%E5%8E%9F-25-682x1024.jpg" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">秋葉原</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都千代田區</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>根據各家店鋪設施營業時間有所變動</dd></dl>
+</div></div>
 <a href="#top">--TOP--</a>  
 
 </html>
