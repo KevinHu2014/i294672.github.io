@@ -12,6 +12,9 @@
   <ul>
     東京是一座位於日本本州島東部的都市，也是現今事實上的的日本首都，以東京都區部為中心（即一般所認知的東京市區），目前光此23區部之人口數達922萬；若包含多摩地區及鄰近擴張相連之城區的東京首都圈，人口總數則達3千5百萬，是目前全球規模最大的都會區，亦為亞洲重要的世界級城市。東京是傳統上的全球四大世界級城市之一，在2014年全球城市指數排名中排名第四名（亞洲第一名），也是全球第三大金融中心，僅次於紐約及倫敦。
   </ul>
+  <a href="#a1">東京旅遊路線推薦</a>
+  <a href="#a1">東京觀光景點推薦</a>
+  <div id="a1"></div>
 <h2>【路線1】淺草、上野、阿美橫町、晴空塔</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">淺草寺</span></b>參拜、逛仲見世通買伴手禮 → <b>【下午】<span style="color: #ff6600;">上野</span>恩賜公園</b>散步、<strong><span style="color: #ff6600;">阿美橫丁</span>藥妝店</strong>大採購 → 【晚上】漫步<strong>隅田川沿河岸公園</strong>拍金色大便與晴空塔、<span style="color: #ff6600;">晴空塔</span>看夜景</p>
 <h2>【路線2】皇居、東京車站、秋葉原</h2>
@@ -32,6 +35,7 @@
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">鎌倉車站</span></b>土產街買伴手禮、鶴岡八幡宮（或到長谷站下車走去鐮倉大佛 or 長谷寺） → <b>【下午】</b>搭江之電到鐮倉高校前看<strong><span style="color: #ff6600;">灌籃高手片頭</span></strong> → 【傍晚】到<strong><span style="color: #ff6600;">江之島</span></strong>邊吃邊逛神社到夕陽時分</p>
 <h2>【路線10】橫濱一日遊</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;">【上午】<b><span style="color: #ff6600;">中華街</span></b>散步經元町商店街至山手西洋館 → 【下午】沿著<strong><span style="color: #ff6600;">山下公園</span></strong>看看海岸風光再到<strong><span style="color: #ff6600;">紅磚倉庫</span></strong>逛逛個性小店、世界之窗Outlet或是<strong>日清泡麵博物館</strong> → 【夕陽景點】紅磚倉庫旁的大棧橋 or 逛<strong><span style="color: #ff6600;">地標塔</span></strong>購物中心然後直接上<strong><span style="color: #ff6600;">69F空中花園</span></strong>看港灣夜景</p>
+<div id="a1"></div>
 <h2 class="article__title">■景點1：淺草寺</h2>
 <figure class="article__image">
 <img src="https://d2j3coy501s4ze.cloudfront.net/images/2043/700/3fd9c93117614224d32b9f315d151034b83de172_57397d9d6aa98.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2043/700/3fd9c93117614224d32b9f315d151034b83de172_57397d9d6aa98.jpeg" title="來源: http://www.senso-ji.jp/" data-image-popup>
