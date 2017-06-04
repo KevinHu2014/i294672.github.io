@@ -16,7 +16,7 @@
   <a href="#a2">東京觀光景點推薦</a>
   <div id="a1"></div>
 <h2>【路線1】淺草、上野、阿美橫町、晴空塔</h2>
-<a href="#a2">淺草</a> <a href="#a3">上野</a> <a href="#a4">阿美橫町</a> <a href="#a5">晴空塔</a>
+<a href="#a2">淺草</a> <a href="#a3">上野</a>  <a href="#a4">阿美橫町</a>  <a href="#a5">晴空塔</a>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">淺草寺</span></b>參拜、逛仲見世通買伴手禮 → <b>【下午】<span style="color: #ff6600;">上野</span>恩賜公園</b>散步、<strong><span style="color: #ff6600;">阿美橫丁</span>藥妝店</strong>大採購 → 【晚上】漫步<strong>隅田川沿河岸公園</strong>拍金色大便與晴空塔、<span style="color: #ff6600;">晴空塔</span>看夜景</p>
 <h2>【路線2】皇居、東京車站、秋葉原</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】</b>參觀<b><span style="color: #ff6600;">皇居</span></b> → <b>【午餐】</b>東京車站<span style="color: #ff6600;">東京拉麵街</span> →<b>【下午】</b>東京車站<strong><span style="color: #ff6600;">東京一番街</span></strong>買伴手禮 → 【晚上】<span style="color: #ff6600;">秋葉原</span>動漫、女僕、電器</p>
@@ -347,35 +347,35 @@
 </dl></div></div></div>
 <h2 class="article__title">■景點15：六本木Hills</h2>
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2071/700/24e24f13490999a6b2f44f2778d30d1fb3e6d02e_57397f393b120.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2071/700/24e24f13490999a6b2f44f2778d30d1fb3e6d02e_57397f393b120.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA" data-image-popup>
-                                                                                                        <p class="image__quote">
-                                                  <span class="add-cite"></span></p>
-                                      </figure>
-<p class="article__text">
-                      坐擁地上54樓，高238米的超高層六本木辦公樓，以六本木森大廈為中心，配套多種綜合性設施。有4棟是屬於六本木Hills的住宅區，總住宅戶達到793戶； 屋外多功能露天娛樂場所-六本木Hills露天廣場；世界星級飯店-東京君悅飯店；擁有國內最先進的影音設備的六本木HillsTOHO影城；朝日電視台，毛利庭園等等。<br />東京城市觀景台位於森大廈52樓，海拔250米，高11米且配有環繞建築360°的落地玻璃窗，從這個充滿空間開放感的地方可以對東京都市的街景一覽無余。不僅如此，森大廈的屋頂上，位於海拔270米的地方還設有天望甲板，以日本最高的戶外展望台引以為傲。六本木Hills森大廈最上面的53層是森美術館，整棟建築大約有200家以上的餐廳，可以在這裡度過愉快的一天。
-                    </p>
-<figure class="article__image">
-                                                                  <img src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA" data-image-popup>
-                                                                                                        <p class="image__quote">
-                                                  <span class="add-cite"></span></p>
-                                      </figure>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">坐擁地上54樓，高238米的超高層六本木辦公樓，以六本木森大廈為中心，配套多種綜合性設施。有4棟是屬於六本木Hills的住宅區，總住宅戶達到793戶； 屋外多功能露天娛樂場所-六本木Hills露天廣場；世界星級飯店-東京君悅飯店；擁有國內最先進的影音設備的六本木HillsTOHO影城；朝日電視台，毛利庭園等等。<br />東京城市觀景台位於森大廈52樓，海拔250米，高11米且配有環繞建築360°的落地玻璃窗，從這個充滿空間開放感的地方可以對東京都市的街景一覽無余。不僅如此，森大廈的屋頂上，位於海拔270米的地方還設有天望甲板，以日本最高的戶外展望台引以為傲。六本木Hills森大廈最上面的53層是森美術館，整棟建築大約有200家以上的餐廳，可以在這裡度過愉快的一天。</p>
+<figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2072/700/1049ffe59de03ab1bf28cfc2852e674021553246_57397f4937aa6.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
 <div class="info info-spot">
-                    <div class="info__content">
-                                            <div class="info__description">
-                                                  <h3 class="info__title">
-                            六本木HILLS
-                          </h3>
-                                                                          <dl>
-                            <dt><i class="icon-map"></i></dt>
-                            <dd>東京都港區六本木6-11-1</dd>
-                          </dl>
-                                                                          <dl>
-                            <dt><i class="icon-tel"></i></dt>
-                            <dd>03-6406-6000</dd>
-                          </dl>
-                                                                          <dl>
-                            <dt><i class="icon-clock"></i></dt>
-                            <dd>7:00〜21:00</dd>
-                          </dl></div>                                                                                      
-                    </div>
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">六本木HILLS</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都港區六本木6-11-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-6406-6000</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>7:00〜21:00</dd></dl></div></div>
+<h2 class="article__title">■景點16：皇居</h2>
+<figure class="article__image"><img src="http://www.tokyo-koryaku.com/detail_images/list/CS0015_ph01.jpg" data-mfp-src="http://www.tokyo-koryaku.com/detail_images/list/CS0015_ph01.jpg" title="來源: http://www.tokyo-koryaku.com/sightseeing/article/1072.html" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">皇居是“現在”日本天皇居住的地方。會說“現在”，是因為天皇本來不住這裡的。皇居初建於日本天正十八年（西元1590年），由德川幕府第一代將軍德川家康修建而成。日本明治維新後，天皇從居住了一千年以上的京都遷都到了東京，也從那時起，這裡才正式成為天皇的新住所。在第二次世界大戰期間，皇居曾受到美軍的轟炸，至1968年皇居依據原貌進行了重建。</p>
+<figure class="article__image"><img src="http://www.tokyo-koryaku.com/detail_images/list/CS0015_ph16.jpg" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">皇居</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都千代田區千代田1-1</dd></dl>
+<dl><dt><i class="icon-tel"></i></dt>
+<dd>03-5223-8071</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>9:00〜17:00</dd></dl></div></div>
 <a href="#top">--TOP--</a> 
 </html>
