@@ -14,11 +14,12 @@
   </ul>
   <a href="#a1">東京旅遊路線推薦</a>
   <a href="#a2">東京觀光景點推薦</a>
-  <div id="a1"></div>
+ <div id="a1"></div>
 <h2>【路線1】淺草、上野、阿美橫町、晴空塔</h2>
 <a href="#a2">淺草</a> <a href="#a3">上野</a>  <a href="#a4">阿美橫町</a>  <a href="#a5">晴空塔</a>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】<span style="color: #ff6600;">淺草寺</span></b>參拜、逛仲見世通買伴手禮 → <b>【下午】<span style="color: #ff6600;">上野</span>恩賜公園</b>散步、<strong><span style="color: #ff6600;">阿美橫丁</span>藥妝店</strong>大採購 → 【晚上】漫步<strong>隅田川沿河岸公園</strong>拍金色大便與晴空塔、<span style="color: #ff6600;">晴空塔</span>看夜景</p>
 <h2>【路線2】皇居、東京車站、秋葉原</h2>
+<a href="#a6">皇居</a> <a href="#a7">東京車站</a> <a href="#a8">秋葉原</a>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】</b>參觀<b><span style="color: #ff6600;">皇居</span></b> → <b>【午餐】</b>東京車站<span style="color: #ff6600;">東京拉麵街</span> →<b>【下午】</b>東京車站<strong><span style="color: #ff6600;">東京一番街</span></strong>買伴手禮 → 【晚上】<span style="color: #ff6600;">秋葉原</span>動漫、女僕、電器</p>
 <h2>【路線3】築地市場、台場、汐留、銀座</h2>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>行程一.【上午】<span style="color: #ff6600;">築地市場</span></b>新鮮海產 → <b>【午餐】</b><strong><span style="color: #ff6600;">月島</span></strong>半日遊散步 + 文字燒 → 【下午】<span style="color: #ff6600;">台場</span>商場瘋玩 + 海濱看夕陽</p>
@@ -308,6 +309,7 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://www.tokyo-zoo.net/zoo/ueno/" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://www.tokyo-zoo.net/zoo/ueno/</a></dd>
 </dl></div></div></div>
+<div id="a7"></div>
 <h2 class="article__title">■景點13：東京車站</h2>
 <figure class="article__image"><img src="https://d2j3coy501s4ze.cloudfront.net/images/2067/700/62c10c57aaab0f1354b67adaf8ebb645d66e7a8c_57397f0bb827a.jpeg" data-mfp-src="https://d2j3coy501s4ze.cloudfront.net/images/2067/700/62c10c57aaab0f1354b67adaf8ebb645d66e7a8c_57397f0bb827a.jpeg" title="來源: http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span></p></figure>
@@ -361,6 +363,7 @@
 <dd>03-6406-6000</dd></dl>
 <dl><dt><i class="icon-clock"></i></dt>
 <dd>7:00〜21:00</dd></dl></div></div>
+<div id="a6"></div>
 <h2 class="article__title">■景點16：皇居</h2>
 <figure class="article__image"><img src="http://www.tokyo-koryaku.com/detail_images/list/CS0015_ph01.jpg" data-mfp-src="http://www.tokyo-koryaku.com/detail_images/list/CS0015_ph01.jpg" title="來源: http://www.tokyo-koryaku.com/sightseeing/article/1072.html" data-image-popup>
 <p class="image__quote"><span class="add-cite"></span></p></figure>
@@ -380,5 +383,6 @@
 <dl><dt><i class="icon-link"></i></dt>
 <dd><a href="http://sankan.kunaicho.go.jp/order/order_simple_flow.html" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://sankan.kunaicho.go.jp/order/order_simple_flow.html</a></dd>
 </dl></div></div>
-<a href="#top">--TOP--</a> 
+<a href="#top">--TOP--</a>  
+
 </html>
