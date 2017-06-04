@@ -23,7 +23,7 @@
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>【上午】</b>參觀<b><span style="color: #ff6600;">皇居</span></b> → <b>【午餐】</b>東京車站<span style="color: #ff6600;">東京拉麵街</span> →<b>【下午】</b>東京車站<strong><span style="color: #ff6600;">東京一番街</span></strong>買伴手禮 → 【晚上】<span style="color: #ff6600;">秋葉原</span>動漫、女僕、電器</p>
 <h2>【路線3】築地市場、台場、汐留、銀座</h2>
 <a href="#a9">築地市場</a> <a href="#b1">台場</a> <a href="#b2">汐留</a> <a href="#b3">銀座</a>
-<p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;"><b>行程一.【上午】<span style="color: #ff6600;">築地市場</span></b>新鮮海產 → <b>【午餐】</b><strong><span style="color: #ff6600;">月島</span></strong>半日遊散步 + 文字燒 → 【下午】<span style="color: #ff6600;">台場</span>商場瘋玩 + 海濱看夕陽</p>
+<p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; bacground-color: #eeeeee;"><b>行程一.【上午】<span style="color: #ff6600;">築地市場</span></b>新鮮海產 → <b>【午餐】</b><strong><span style="color: #ff6600;">月島</span></strong>半日遊散步 + 文字燒 → 【下午】<span style="color: #ff6600;">台場</span>商場瘋玩 + 海濱看夕陽</p>
 <h2>【路線4】澀谷、中目黑、自由之丘、代官山</h2>
 <a href="#b4">澀谷</a> <a href="#b5">中目黑</a> <a href="#b6">自由之丘</a> <a href="#b7">代官山</a>
 <p style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin: 10px; padding: 15px; background-color: #eeeeee;">澀谷站出發 →<b>【上午】<span style="color: #ff6600;">自由之丘</span></b>美食甜點下午茶 + 生活雜貨超好逛 + 小威尼斯打卡拍照、<strong><span style="color: #ff6600;">中目黑</span></strong>目黑川閒逛 + 文青個性小店 → 【傍晚】<span style="color: #ff6600;"><strong>代官山</strong></span>地標太陽花 + 風格服飾小店 + 蔦屋書店品味書香氣息</p>
@@ -406,6 +406,22 @@
 <dd>東京都千代田區</dd></dl>
 <dl><dt><i class="icon-clock"></i></dt>
 <dd>根據各家店鋪設施營業時間有所變動</dd></dl>
+</div></div>
+<div id="c4"></div>
+<h2 class="article__title">■景點18：吉卜力美術館</h2>
+<figure class="article__image"><img src="https://farm1.staticflickr.com/561/19138861365_f82d43abc7_c.jpg" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">該館由三鷹市政府以指定方式交由德間紀念動畫文化財團運營，營利性收入則由株式會社曼馬由特隊管理。 館主由吉卜力工作室的代表人物宮崎駿擔任。三鷹吉卜力美術館大小孩都很適合遊玩，只要有看過宮崎駿動畫到那絕對可以引起共鳴，但很可惜美術館內是不准拍照。</p>
+<figure class="article__image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzD-CFcOUJ1hSEgw3XoQQgGPXuEQr24nAejIAD5tsBXpm2x-9poA" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">吉卜力美術館</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都三鷹市下連雀1-1-83</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>:10:00-18:00</dd></dl>
 </div></div>
 <a href="#top">--TOP--</a>  
 
