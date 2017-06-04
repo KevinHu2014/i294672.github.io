@@ -376,6 +376,9 @@
 <dl><dt><i class="icon-tel"></i></dt>
 <dd>03-5223-8071</dd></dl>
 <dl><dt><i class="icon-clock"></i></dt>
-<dd>9:00〜17:00</dd></dl></div></div>
+<dd>9:00〜17:00</dd></dl>
+<dl><dt><i class="icon-link"></i></dt>
+<dd><a href="http://sankan.kunaicho.go.jp/order/order_simple_flow.html" rel="nofollow" target="_blank" data-event-send='["infoOutbound"]'>http://sankan.kunaicho.go.jp/order/order_simple_flow.html</a></dd>
+</dl></div></div>
 <a href="#top">--TOP--</a> 
 </html>
