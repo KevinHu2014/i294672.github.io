@@ -425,6 +425,22 @@
 <dl><dt><i class="icon-clock"></i></dt>
 <dd>:10:00-18:00</dd></dl>
 </div></div>
+<div id="b7"></div>
+<h2 class="article__title">■景點19：代官山鳶屋書店</h2>
+<figure class="article__image"><img src="http://farm8.static.flickr.com/7396/12851964733_e713f7319e_o.jpg" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<p class="article__text">蔦屋書店 TSUTAYA 其實在日本各地都有，主要以書店起家，但DVD/CD也是重點營業項目，在代官山的蔦屋書店 TSUTAYA ，是由東京的英國建築師事務所 KDa及日本平面設計大師 原研哉共同打造。以森林中的圖書館為設計理念，藉由五感體驗，讓人重新捨回對文字的熱愛，並且以獨特的編織感流動白色立體牆面，給人不同的視覺感受。</p>
+<figure class="article__image"><img src="http://farm4.static.flickr.com/3672/12852326744_8b884aecdb_o.jpg" data-image-popup>
+<p class="image__quote"><span class="add-cite"></span></p></figure>
+<div class="info info-spot">
+<div class="info__content">
+<div class="info__description">
+<h3 class="info__title">鳶屋書店</h3>
+<dl><dt><i class="icon-map"></i></dt>
+<dd>東京都渋渉谷區猿樂町17-5</dd></dl>
+<dl><dt><i class="icon-clock"></i></dt>
+<dd>:7:00-2:00</dd></dl>
+</div></div>
 <h3>參考網址:https://travelbook.com.tw/topics/127</h3>
 <a href="#top">--TOP--</a>  
 
