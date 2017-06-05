@@ -14,6 +14,8 @@
   </ul>
   <a href="#a1">東京旅遊路線推薦</a>
   <a href="#a2">東京觀光景點推薦</a>
+  <a href="http://mengyu1994.github.io/JapenGo/">東京出發前準備</a>
+  <a href="http://ya14789632.github.io/gotoja.github.io/">東京必吃美食推薦</a>
  <div id="a1"></div>
 <h2>【路線1】淺草、上野、阿美橫町、晴空塔</h2>
 <a href="#a2">淺草</a> <a href="#a3">上野</a>  <a href="#a4">阿美橫町</a>  <a href="#a5">晴空塔</a>
